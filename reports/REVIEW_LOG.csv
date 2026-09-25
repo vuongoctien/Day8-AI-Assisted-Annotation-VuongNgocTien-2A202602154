@@ -1,0 +1,6 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0107.jpg,vệt đèn phản chiếu trên mặt đường bên trái,deleted,Vệt sáng trên mặt đường không phải xe nên xóa khung
+1,frame_0107.jpg,xe ở xa phía trên bên trái bị kẹp giữa 2 xe,added,Vẽ thêm khung ôm sát thân xe nhỏ ở xa nhìn thấy được
+1,frame_0099.jpg,xe bị cắt ở góc mép dưới bên phải,added,Chỉ khoanh phần đuôi và đèn xe còn nhìn thấy trong ảnh
+1,frame_0182.jpg,xe tối sát mép đường bên trái,edited,Kéo lại các cạnh khung cho ôm sát thân xe và đèn xe
+1,frame_0331.jpg,ô tô ở làn đường phía trước,accepted,Khung AI đề xuất chính xác ôm trọn thân xe nên giữ nguyên
